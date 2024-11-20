@@ -1,0 +1,12 @@
+{
+  "name": "manomitra",
+  "version": "1.0.0",
+  "description": "Manomitra is a comprehensive mental wellness application designed to help users track their mood, receive personalized content recommendations, and practice yogasanas for improved mental health.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
